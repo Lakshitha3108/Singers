@@ -3,3 +3,11 @@
 name :Arjith singh
 
 industry : Bollywood
+
+
+2.
+
+name : A R Rahman
+
+industry : tollywood
+
